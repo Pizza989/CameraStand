@@ -1,0 +1,11 @@
+ camera_stand:
+    servo-loch zu klein -> länge + 0.4mm
+    servo achse und gegenüberliegendes loch auf verschiedenen höhen 30mm bzw. ~26mm
+    loch am boden zu klein -> = 8mm
+    wabelig -> (verstrebungen)
+
+camera_hold:
+    passt
+
+camera_socket:
+    ungetestet
