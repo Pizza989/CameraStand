@@ -9,3 +9,6 @@ camera_hold:
 
 camera_socket:
     ungetestet
+
+python modul:
+    Adafruit_CircuitPython_PCA9685
