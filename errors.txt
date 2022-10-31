@@ -8,7 +8,7 @@ camera_hold:
     passt
 
 camera_socket:
-    ungetestet
+    servo-loch zu klein, +0.4 beide 
 
 python modul:
     Adafruit_CircuitPython_PCA9685
