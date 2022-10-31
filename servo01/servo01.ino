@@ -1,5 +1,6 @@
 /*
  basic servo control via USB-serial
+ ESP32
  PWM via PCA9685 I2C
  * GND
  * 5V
